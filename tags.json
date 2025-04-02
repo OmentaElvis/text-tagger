@@ -1,0 +1,251 @@
+[
+  {
+    "name": "data_collection",
+    "color": "#FFCC00",
+    "description": "Information on what data is collected, including types of data (personal, sensitive, etc.).",
+    "keywords": [
+      "data collection",
+      "collected data",
+      "personal data",
+      "sensitive data",
+      "data types",
+      "information gathering",
+      "collect",
+      "gather"
+    ]
+  },
+  {
+    "name": "data_usage",
+    "color": "#00CCFF",
+    "description": "How the collected data will be used, including purposes for processing.",
+    "keywords": [
+      "data usage",
+      "data processing",
+      "use of data",
+      "processing purposes",
+      "data utilization",
+      "usage",
+      "process",
+      "use",
+      "processing",
+      "utiliz"
+    ]
+  },
+  {
+    "name": "data_sharing",
+    "color": "#FF5733",
+    "description": "Details on whether data is shared with third parties, and under what circumstances.",
+    "keywords": [
+      "data sharing",
+      "third parties",
+      "data disclosure",
+      "data transfer",
+      "external sharing",
+      "sharing",
+      "third",
+      "disclos",
+      "share",
+      "external"
+    ]
+  },
+  {
+    "name": "user_rights",
+    "color": "#28A745",
+    "description": "Information about the rights of individuals regarding their data, such as access, correction, deletion, and portability.",
+    "keywords": [
+      "user rights",
+      "data access",
+      "data correction",
+      "data deletion",
+      "data portability",
+      "individual rights",
+      "rights",
+      "access",
+      "correction",
+      "delete",
+      "porta"
+    ]
+  },
+  {
+    "name": "consent",
+    "color": "#6F42C1",
+    "description": "How consent is obtained from users, including any opt-in or opt-out mechanisms.",
+    "keywords": [
+      "consent",
+      "opt-in",
+      "opt-out",
+      "permission",
+      "user authorization",
+      "express consent"
+    ]
+  },
+  {
+    "name": "data_retention",
+    "color": "#FFC107",
+    "description": "Policies regarding how long data is retained and the criteria for determining retention periods.",
+    "keywords": [
+      "data retention",
+      "retention period",
+      "storage duration",
+      "data preservation",
+      "archival",
+      "keeping data",
+      "retention",
+      "period",
+      "storage",
+      "archiv"
+    ]
+  },
+  {
+    "name": "security_measures",
+    "color": "#17A2B8",
+    "description": "Information on the security measures in place to protect data from unauthorized access or breaches.",
+    "keywords": [
+      "security",
+      "data protection",
+      "encryption",
+      "cybersecurity",
+      "breach prevention",
+      "access control",
+      "protect",
+      "encrypt",
+      "prevention",
+      "control"
+    ]
+  },
+  {
+    "name": "international_transfers",
+    "color": "#FF6F61",
+    "description": "Clauses related to the transfer of data across borders and compliance with international regulations.",
+    "keywords": [
+      "international transfers",
+      "cross-border data",
+      "data export",
+      "global transfer",
+      "international compliance",
+      "data migration",
+      "transfer",
+      "border",
+      "export",
+      "transfer",
+      "international",
+      "migration"
+    ]
+  },
+  {
+    "name": "cookies_tracking",
+    "color": "#E83E8C",
+    "description": "Information on the use of cookies and other tracking technologies, including user options for managing them.",
+    "keywords": [
+      "cookies",
+      "tracking",
+      "tracking technologies",
+      "web tracking",
+      "cookie policy",
+      "online tracking"
+    ]
+  },
+  {
+    "name": "policy_updates",
+    "color": "#007BFF",
+    "description": "How and when the privacy policy may be updated, and how users will be informed of changes.",
+    "keywords": [
+      "policy updates",
+      "policy changes",
+      "updates",
+      "amendments",
+      "revision notification",
+      "policy modifications",
+      "updates",
+      "changes",
+      "modification",
+      "notification"
+    ]
+  },
+  {
+    "name": "contact_info",
+    "color": "#343A40",
+    "description": "Details on how users can contact the organization for questions or concerns regarding privacy.",
+    "keywords": [
+      "contact information",
+      "contact details",
+      "customer support",
+      "inquiries",
+      "get in touch",
+      "contact methods",
+      "information",
+      "contact",
+      "details",
+      "support"
+    ]
+  },
+  {
+    "name": "legal_basis",
+    "color": "#FF8C00",
+    "description": "The legal grounds for processing personal data, such as consent, contractual necessity, or legitimate interests.",
+    "keywords": [
+      "legal basis",
+      "legal grounds",
+      "contractual necessity",
+      "legitimate interests",
+      "regulatory compliance",
+      "lawful processing",
+      "basis",
+      "legal",
+      "ground",
+      "lawful",
+      "compliance",
+      "regulat",
+      "lawful"
+    ]
+  },
+  {
+    "name": "children_privacy",
+    "color": "#6610F2",
+    "description": "Provisions related to the collection of data from minors, if applicable.",
+    "keywords": [
+      "children's privacy",
+      "minors",
+      "child data",
+      "underage",
+      "parental consent",
+      "child protection",
+      "child",
+      "parental"
+    ]
+  },
+  {
+    "name": "data_breach_notification",
+    "color": "#DC3545",
+    "description": "Policies regarding how users will be notified in the event of a data breach.",
+    "keywords": [
+      "data breach",
+      "breach notification",
+      "security incident",
+      "breach alert",
+      "incident response",
+      "compromise notification",
+      "breach",
+      "notfication",
+      "security",
+      "incident",
+      "compromise"
+    ]
+  },
+  {
+    "name": "third_party_services",
+    "color": "#20C997",
+    "description": "Information about third-party services that may have access to user data and their privacy practices.",
+    "keywords": [
+      "third party services",
+      "external services",
+      "service providers",
+      "affiliates",
+      "outsourcing",
+      "subcontractors",
+      "provide",
+      "service"
+    ]
+  }
+]
+
